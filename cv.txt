@@ -1,0 +1,40 @@
+John Smith
+
+Location: Manchester, UK
+Email: johnsmith@email.com
+
+Professional Summary:
+Data Analyst with 3 years of experience in SQL, Python, Power BI, Excel, and reporting automation. Experienced in cleaning data, building dashboards, and supporting business decisions.
+
+Education:
+BSc Computer Science, University of Leeds, 2020
+
+Skills:
+Python, SQL, Power BI, Excel, Tableau, Data Cleaning, Data Visualisation, Reporting, Statistics, Communication, Stakeholder Management
+
+Work Experience:
+Data Analyst, ABC Retail Ltd, Manchester
+June 2021 - Present
+
+Responsibilities:
+- Built Power BI dashboards for sales and inventory reporting.
+- Used SQL to extract and transform customer and transaction data.
+- Automated weekly Excel reports using Python.
+- Worked with business teams to understand reporting requirements.
+- Improved reporting speed by 40%.
+
+Junior Data Assistant, XYZ Services
+January 2020 - May 2021
+
+Responsibilities:
+- Cleaned and validated customer data.
+- Created monthly reports in Excel.
+- Supported senior analysts with data preparation.
+
+Projects:
+Customer Churn Analysis using Python and SQL.
+Sales Dashboard using Power BI.
+
+Certifications:
+Microsoft Power BI Data Analyst Associate
+Google Data Analytics Certificate

@@ -1,0 +1,27 @@
+Job Title: Data Analyst
+
+Location: London / Hybrid
+
+Company Description:
+A UK-based financial services company is hiring a Data Analyst to support business reporting and analytics.
+
+Responsibilities:
+- Analyse business data using SQL and Python.
+- Build dashboards using Power BI.
+- Work with stakeholders to gather requirements.
+- Prepare reports for senior management.
+- Improve data quality and reporting processes.
+
+Required Skills:
+- Strong SQL skills
+- Python for data analysis
+- Power BI dashboard development
+- Excel reporting
+- Data cleaning
+- Communication skills
+- Stakeholder management
+
+Preferred:
+- Experience in financial services
+- Knowledge of Tableau
+- Degree in Computer Science, Mathematics, Data Science, or related field

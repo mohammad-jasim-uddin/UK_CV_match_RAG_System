@@ -1,0 +1,11 @@
+sentence_transformers==5.5.1
+faiss-cpu==1.14.2
+scikit-learn==1.9.0
+numpy==2.4.6
+python-dotenv==1.0.1
+openai==2.41.0
+dotenv==0.9.9 
+python-dotenv==1.2.2
+h5py==3.14.0 
+tensorflow==2.21.0
+tf-keras==2.21.0
